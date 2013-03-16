@@ -40,5 +40,5 @@ gem 'jquery-rails', '2.0.2'
 # gem 'debugger'
 
 group :production do
-  gem 'pg', '0.12.2'
+  gem 'pg', '0.14.1'
 end
